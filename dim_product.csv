@@ -1,0 +1,7 @@
+product_id,product_name,category,base_margin
+1,Premium Electronics,Electronics,0.35
+2,Budget Electronics,Electronics,0.15
+3,Home Essentials,Home,0.25
+4,Fashion Apparel,Fashion,0.45
+5,Personal Care,Health,0.3
+6,Office Supplies,Office,0.2
