@@ -1,5 +1,4 @@
-# ceo_360_dashboard
-CEO-level executive dashboard built with SQL (MySQL) and Power BI — tracks revenue, cost, profit, growth trends, and regional/product performance for data-driven business decisions.
+
 # CEO Business 360 Dashboard
 
 ## Problem Statement
